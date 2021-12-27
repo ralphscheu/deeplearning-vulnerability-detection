@@ -1,0 +1,15 @@
+code_input/
+#*.h5
+.ipynb_checkpoints/
+#*.gensim
+#*.png
+merge_labeled_with_tokenanon.ipynb
+*.parquet
+__pycache__/
+
+*.npz
+venv-ba
+venv-ba-3.7
+*.log
+
+*.npy
